@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
 
   s.source_files = "Classes/ExampleLib.{m,h}"
 
-  s.preserve_path = "Classes/IMPORTANT.txt"
+  s.preserve_path = "Important/IMPORTANT.txt"
 end
