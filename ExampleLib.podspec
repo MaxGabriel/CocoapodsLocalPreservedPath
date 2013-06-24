@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
   s.homepage     =  'http://github.com/orta/ExampleLib'
   s.authors      =  { 'orta' => 'orta.therox@gmail.com' }
-  s.source       =  { :git => 'https://github.com/MaxGabriel/CocoapodsLocalPreservedPath.git', :tag => s.version.to_s }
+  s.source       =  { :git => 'https://github.com/MaxGabriel/CocoapodsLocalPreservedPath.git' }
 
   s.summary      =  'Just a simple podspec, no working code.'
   s.description  =  'Just a simple podspec for 2 files.'
